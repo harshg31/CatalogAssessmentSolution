@@ -1,6 +1,7 @@
 # CatalogAssessmentSolution
 How To run the solution:
-The solution provided is in javaScript
+</br>
+The solution provided is in javaScript.
 </br>
 1.initialse the data variable with the input json.
 </br>
